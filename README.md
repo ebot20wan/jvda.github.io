@@ -1,4 +1,4 @@
-# Jay Vincent D. Antonio — JAY.AI Portfolio
+# Jay Vincent D. Antonio — JVDA Portfolio
 
 A custom-coded, responsive portfolio for AI training, data annotation, and AI output quality review. Built with plain HTML, CSS, and JavaScript; no build step, framework, database, or paid service is required.
 
